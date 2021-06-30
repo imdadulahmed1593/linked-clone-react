@@ -1,45 +1,52 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+#  A LinkedIn Clone built with React and Redux 
 
-## Available Scripts
+## Table of contents
 
-In the project directory, you can run:
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Overview
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- This is a linkedIn clone built with React and Redux which uses Firebase for authentication, hosting and many more!
 
-### `npm test`
+### The challenge
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Learnt a lot using Redux and Firebase. Hope to integrate some other functionalities in the future.
 
-### `npm run build`
+### Screenshot
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![](./src/images/linkedin-clone-react.jpg)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Links
 
-### `npm run eject`
+- Solution URL: [solution](https://github.com/imdadulahmed1593/quiz-for-you-react-typescript)
+- Live Site URL: [live link](https://linkedin-clone-react-68ffd.web.app/)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## My process
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Built with
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Redux
+- ReactJS
+- Firebase
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Author
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-# linked-clone-react
+- Website - [Ahmed Imdad](https://ahmedimdad93.netlify.app/)
+- Frontend Mentor - [Ahmed Imdad](https://www.frontendmentor.io/profile/imdadulahmed1593)
+- Facebook- [Ahmed Imdad](https://www.facebook.com/ahmed.imdad.5/)
+
+
+## Acknowledgments
+
+I would like to acknowledge myself for this amazing project :v
